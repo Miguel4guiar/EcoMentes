@@ -63,7 +63,13 @@ Nosso objetivo é criar um conjunto de ferramentas criativas que abranjam as qua
 
 ## 📸 Imagens do Protótipo
 
-> _(Em breve adicionaremos imagens do projeto em ação aqui)_
+#### ✅ Protótipo da Máquina de Somar
+
+![Protótipo da Máquina de Somar](./imagens/maquina-de-somar.jpeg)
+
+#### 👨‍🔬 Equipe Eco Mentes durante o processo de criação
+
+![Equipe Eco Mentes](./imagens/equipe-eco-mentes.jpeg)
 
 ---
 
@@ -75,9 +81,9 @@ Se você é educador, designer, desenvolvedor ou simplesmente entusiasta da educ
 
 ## 📫 Contato
 
-📧 mail
-📷 Instagram: 
-🌐 Site: 
+📧 eco.mentes@gmail.com  
+📷 Instagram: [@eco.mentes](https://instagram.com/eco.mentes)  
+🌐 Site: _(em desenvolvimento)_
 
 ---
 
