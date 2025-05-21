@@ -65,11 +65,11 @@ Nosso objetivo é criar um conjunto de ferramentas criativas que abranjam as qua
 
 #### ✅ Protótipo da Máquina de Somar
 
-![Protótipo da Máquina de Somar](./imagens/maquina-de-somar.jpeg)
+![Protótipo da Máquina de Somar](./maquina-de-somar.jpeg)
 
 #### 👨‍🔬 Equipe Eco Mentes durante o processo de criação
 
-![Equipe Eco Mentes](./imagens/equipe-eco-mentes.jpeg)
+![Equipe Eco Mentes](./equipe-eco-mentes.jpeg)
 
 ---
 
